@@ -1,5 +1,5 @@
 object Constants {
-	const val MINECRAFT_VERSION = "1.21"
+	const val MINECRAFT_VERSION = "1.21.1"
 	const val YARN_VERSION = "1.21+build.1"
 	const val LOADER_VERSION = "0.15.11"
 
@@ -11,7 +11,7 @@ plugins {
 }
 
 group = "dev.caoimhe.thirdpersonboating"
-version = "1.0.1"
+version = "1.0.2"
 base.archivesName = "thirdpersonboating"
 
 loom {
